@@ -1,5 +1,6 @@
 # OpenClassrooms-P7
 Projet 7 - 1/ Implémentez un modèle de scoring
+
 1/3
 Implémentez un modèle de scoring
 openclassrooms.com/fr/projects/implementez-un-modele-de-scoring/assignment
@@ -7,6 +8,7 @@ openclassrooms.com/fr/projects/implementez-un-modele-de-scoring/assignment
 Vous êtes Data Scientist au sein d'une société financière, nommée "Prêt à
 dépenser",  qui propose des crédits à la consommation pour des personnes ayant peu ou
 pas du tout d'historique de prêt.
+ 
  
 L’entreprise souhaite développer un
 modèle de scoring de la
@@ -33,11 +35,17 @@ Voici les données dont vous aurez besoin pour réaliser le dashboard. Pour plus
 simplicité, vous pouvez les télécharger à cette adresse.
 Vous aurez sûrement besoin de joindre les différentes tables entre elles.
 Votre mission
+
+
 1. Construire un modèle de scoring qui donnera une prédiction sur la probabilité de
 faillite d'un client de façon automatique.
+
+
 2. Construire un dashboard interactif à destination des gestionnaires de la relation
 client permettant d'interpréter les prédictions faites par le modèle et d’améliorer la
 connaissance client des chargés de relation client.
+
+
 2/3
 Michaël, votre manager, vous incite à sélectionner un kernel Kaggle pour vous faciliter la
 préparation des données nécessaires à l’élaboration du modèle de scoring. Vous
