@@ -1,10 +1,10 @@
 import numpy as np
-from flask import Flask, jsonify, request, render_template, json
+from flask import Flask, jsonify, requests, json
 import numpy as np
 import pickle
 import pandas as pd
-from lime import lime_tabular
-import lightgbm
+
+#import lightgbm
 
 # loading the trained model
 #pickle_in = open('C:/Users/KamKam/OneDrive/Documents/FORMATIONS/DATA SCIENTIST-EXPERT EN BIG DATA/OPENCLASSROOMS/07 - PROJET 7/lgbm.pkl', 'rb')
