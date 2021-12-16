@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: python app/api_flask.py runserver 0.0.0.0:5000
