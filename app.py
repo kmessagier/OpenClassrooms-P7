@@ -43,10 +43,8 @@ def client(id_client):
     #dico["proba0"] = str(np.round(y_proba[0][0], 2))
     #dico["proba1"] = str(np.round(y_proba[0][1], 2))
 
-    #return jsonify(12)
+    return '<h1>I want to Deploy Flask to Heroku</h1>'
 
 
-if __name__ == "__main__":
-    app.run(debug=True)
 
 
