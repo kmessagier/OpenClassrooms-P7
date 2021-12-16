@@ -46,5 +46,6 @@ def client(id_client):
     return '<h1>I want to Deploy Flask to Heroku</h1>'
 
 
-
+if __name__ == "__main__":
+    app.run()
 
