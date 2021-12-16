@@ -43,7 +43,7 @@ def client(id_client):
     #dico["proba0"] = str(np.round(y_proba[0][0], 2))
     #dico["proba1"] = str(np.round(y_proba[0][1], 2))
 
-    return 12
+    return print('12')
 
 
 if __name__ == "__main__":
