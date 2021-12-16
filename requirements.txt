@@ -1,10 +1,10 @@
 imbalanced-learn==0.8.1
 imblearn==0.0
 json5==0.9.5
-pickle==4.0
+
 lightgbm==3.3.1
 sklearn==0.24.1
-seaborn==0.11.1
+
 numpy==1.19.5
 pandas==1.2.4
 lime==2.1.0
