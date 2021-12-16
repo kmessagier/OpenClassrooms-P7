@@ -29,16 +29,7 @@ certifi==2020.12.5
 clang==5.0
 clyent==1.2.1
 comtypes==1.1.9
-conda==4.10.3
-conda-build==3.21.4
-conda-verify==3.4.2
-contextlib2==0.6.0.post1
-cv2-tools==2.4.0
-cycler==0.10.0
-cytoolz==0.11.0
-entrypoints==0.3
-et-xmlfile==1.0.1
-fastcache==1.1.0
+
 feature-engine==1.1.2
 flatbuffers==1.12
 future==0.18.2
