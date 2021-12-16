@@ -113,9 +113,7 @@ sip==4.19.13
 smmap==5.0.0
 statsmodels==0.12.2
 streamlit==1.1.0
-sympy @ file:///C:/ci/sympy_1618255511605/work
 tables==3.6.1
-tblib @ file:///tmp/build/80754af9/tblib_1597928476713/work
 tenacity==8.0.1
 tensorboard==2.6.0
 tensorboard-data-server==0.6.1
