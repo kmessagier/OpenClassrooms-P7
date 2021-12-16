@@ -57,7 +57,6 @@ Markdown==3.3.4
 MarkupSafe==1.1.1
 mccabe==0.6.1
 
-navigator-updater==0.2.1
 numpy==1.19.5
 opencv-python==4.5.3.56
 pathspec==0.7.0
@@ -66,19 +65,8 @@ pep8==1.7.1
 plotly==5.3.1
 ply==3.11
 pycurl==7.43.0.6
-pydeck==0.7.1
-pyodbc===4.0.0-unsupported
-pyreadline==2.1
-pytest==6.2.3
+
 python-constraint==1.4.0
-pytz-deprecation-shim==0.1.0.post0
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
-PyYAML==5.4.1
-pyzmq==20.0.0
-QDarkStyle==2.8.1
-QtPy==1.9.0
 requests-oauthlib==1.3.0
 rsa==4.7.2
 scikit-image==0.18.1
