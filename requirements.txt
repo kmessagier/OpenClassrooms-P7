@@ -7,7 +7,7 @@ lightgbm==3.3.1
 
 numpy==1.19.5
 pandas==1.2.4
-lime==2.1.0
+lime==0.2.0.1
 requests==2.25.1
 plotly==5.3.1
 python-constraint==1.4.0
