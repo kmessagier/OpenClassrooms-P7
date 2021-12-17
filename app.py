@@ -24,8 +24,8 @@ app = Flask(__name__)
 
 @app.route('/api/client/<id_client>')
 def client(id_client):
-    print("id_client:<"+ id_client+">")
-    id_client = float(id_client)
+    #print("id_client:<"+ id_client+">")
+    #id_client = float(id_client)
 
     # Nouvelle donnée à interpréter
    # index de la ligne du client à partir de son identifiant SK_ID_CURR
@@ -47,5 +47,5 @@ def client(id_client):
 
 
 if __name__ == "__main__":
-    app.run(threaded=True, port=5000)
+    app.run()
 
